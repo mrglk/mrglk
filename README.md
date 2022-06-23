@@ -19,5 +19,5 @@ I'm Maria, frontend developer from Saint-Petersburg, Russia.
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/mrmnvch)
-[![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maria-galko-60aa63140/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/maria-galko-60aa63140/)
 [![Vktontakte](https://img.shields.io/badge/Vktontakte-black?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/mrmnvch)
