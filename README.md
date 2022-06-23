@@ -11,7 +11,6 @@ I'm Maria, frontend developer from Saint-Petersburg, Russia.
 ![ReactRouter](https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=reactrouter)
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
 
 
 ### My stats
