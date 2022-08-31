@@ -8,7 +8,7 @@ I'm Maria, frontend developer from Saint-Petersburg, Russia.
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=2965f1)
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS)
-![ReactRouter](https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=reactrouter)
+![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 
