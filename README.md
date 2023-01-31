@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Maria, frontend developer from Saint-Petersburg, Russia.
+I'm Maria, frontend developer from Saint-Petersburg, Russia. Currently live in Tbilisi, Georgia.
 
 ### Technology stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
