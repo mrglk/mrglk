@@ -16,10 +16,6 @@ I'm frontend developer from Saint-Petersburg, Russia.
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 
-
-### My stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrglk&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ### Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/mrmnvch)
 [![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/maria-galko-60aa63140/)
